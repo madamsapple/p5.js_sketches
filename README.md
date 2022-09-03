@@ -1,2 +1,2 @@
 # p5.jsketches
-all my p5js work to date-documented
+All p5js work documented
